@@ -1,0 +1,28 @@
+[
+  {
+    "id": "TASK_1",
+    "priority": "MEDIUM",
+    "tags": [],
+    "title": "CONSERTAR VALIDAÇÕES",
+    "description": "TODO: implementar no DTO e remover do Model",
+    "status": "TODO",
+    "date": {
+      "date": {
+        "year": 2026,
+        "month": 5,
+        "day": 27
+      },
+      "time": {
+        "hour": 10,
+        "minute": 42,
+        "second": 36,
+        "nano": 39547700
+      }
+    },
+    "link": "C:\\Users\\otton\\OneDrive\\Documentos\\motivador\\src\\main\\java\\br\\com\\motivador\\model\\HabitoModel.java",
+    "isImported": true,
+    "fileName": "HabitoModel.java",
+    "lineNumber": 25,
+    "fullCommentText": "////TODO:implementar no DTO e remover do Model"
+  }
+]
